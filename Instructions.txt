@@ -1,0 +1,21 @@
+Maak 10 TestCases
+
+1. Inloggen
+2. Zoeken naar een product
+3. Toevoegen van een product aan winkelwagen
+4. Uitvoeren aankoop
+5. ..
+
+
+
+
+
+Gebruik Cucumber
+Push regelmatig naar Github
+Voeg verificatie toe
+Voeg verificatie van foute inloggegevens toe
+Verifieer validatie boodschappen
+Rapportage functionaliteit met: Datum, tijd van uitvoering, naam van testcase en foutmeldingen
+Voeg Jenkins toe, laat deze automatisch wekelijks of dagelijks uitvoeren
+Voeg kwaliteitscontrole toe
+Documenteer je stappen op Github
