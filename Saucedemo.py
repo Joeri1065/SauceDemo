@@ -18,6 +18,7 @@ driver.get(URL)
 driver.maximize_window()
 
 
+
 # Login
 Setup.login(driver, username, password)
 
